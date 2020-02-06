@@ -11,7 +11,7 @@ The orginal code can be found here - https://github.com/benradford/replication_a
 Data for the replication, ISCX IDS 2012, is available from the Canadian Institute for Cybersecurity - https://www.unb.ca/cic/datasets/ids.html
 
 
-### Alina's changes
+# Alina's changes
 There are the following differences with the original code: 
 - used less data - only one XML file rather than all of them to address the time limitations: TestbedMonJun14Flows.xml 
 - loaded and parsed XML files using lists for each layer of the file
